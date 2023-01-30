@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Mary Mbugua
-- I am full stuck developer based in Nairobi Kenya.I have strong background in Java,Javascript,React ,Ruby, Ruby on Rails Ant-d, HTML/CSS.Looking forward for projects   in web Development.
+- I am full stuck developer based in Nairobi Kenya.My tech stuck is Java,Javascript,React ,Ruby, Ruby on Rails Ant-d, HTML/CSS.Looking forward for projects   in web Development.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning javascript,cloud computing,microsoft azure
@@ -12,6 +12,6 @@
 ## Frontend
 Javascript,React,HTML/CSS,Ant-d
 ## backend
-Java, Ruby ,Ruby on Rails
+Java, Ruby ,Ruby on Rails,Postgresql,Sqllite
 ## Tools
-Github, Docker
+Github,Git, Docker
